@@ -47,6 +47,4 @@ Note - The results will keep changing over time as the competition is still ongo
 # References
 [1] Titanic: Machine Learning from Disaster (https://www.kaggle.com/c/titanic)
 
-[2] Applied Machine Learning Process (http://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
-
-[3] Titanic: Machine Learning from Disaster Leaderboard (https://www.kaggle.com/c/titanic/leaderboard)
+[2] Titanic: Machine Learning from Disaster Leaderboard (https://www.kaggle.com/c/titanic/leaderboard)
