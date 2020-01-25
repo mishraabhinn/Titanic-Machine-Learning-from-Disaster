@@ -1,9 +1,4 @@
-#***********************************************#
 
-#Author - Shalabh Singh (Euler 10). Email - shalabhsingh95@gmail.com
-#Written in Python v3.4
-
-#***********************************************#
 
 #importing all relavent packages
 import pandas as pd
