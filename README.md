@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-from-Disaster
+# Titanic-Machine-Learning-From-Disaster
 This repository contains a machine learning project for predicting survival of passengers who travelled on Titanic Ship in 1912.
 
 # Problem Description-
