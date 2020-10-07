@@ -27,7 +27,7 @@ The project uses a 5 step process (general procedure) for it's predicting task w
 
 Keep iterating over the above steps again and again and tune them according to the need so as to achieve better performance.
 
-# File Description
+# File  Description
 
 titanic_predictor - contains python code for predicting survival.
 
